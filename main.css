@@ -1806,7 +1806,8 @@
   z-index: 1;
   pointer-events: none;
 }
-:root .app_b1f720::after {
+:root .app_b1f720::before {
+  z-index: 2;
   left: 0;
   top: -10;
   width: 250px;
