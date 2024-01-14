@@ -1809,7 +1809,7 @@
 :root .app_b1f720::before {
   z-index: 2;
   left: 0;
-  top: -10;
+  top: 0;
   width: 250px;
   height: 250px;
   background: url("https://i.imgur.com/EM5n97Y.png") no-repeat;
@@ -1852,16 +1852,16 @@
 :root .layers__1c917::after {
   top: 235px;
   right: 80px;
-  width: 120px;
-  height: 120px;
+  width: 200px;
+  height: 200px;
   background: url("https://i.imgur.com/wqDDy3y.png") no-repeat;
   background-size: 100%;
 }
 :root .bg__12180::after {
   top: 45px;
-  right: 405px;
-  width: 30px;
-  height: 30px;
+  right: 425px;
+  width: 80px;
+  height: 80px;
   background: url("https://i.imgur.com/OHMiwj0.png") no-repeat;
   background-size: 100%;
 }
