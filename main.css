@@ -1845,14 +1845,14 @@
   right: 0;
   width: 20px;
   height: 50px;
-  background: url("https://i.imgur.com/WveiFXb.png") no-repeat;
+  background: url("https://i.imgur.com/IJtedS4.png") no-repeat;
   background-size: 100%;
 }
 :root .layers__1c917::after {
-  bottom: 15px;
-  right: 100px;
-  width: 25px;
-  height: 25px;
+  top: 250px;
+  right: 80px;
+  width: 75px;
+  height: 75px;
   background: url("https://i.imgur.com/WBUag7e.png") no-repeat;
   background-size: 100%;
 }
