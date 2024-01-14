@@ -1858,10 +1858,11 @@
   background-size: 100%;
 }
 :root .bg__12180::after {
-  top: 45px;
+  z-index: 2;
+  top: 37px;
   right: 425px;
-  width: 80px;
-  height: 80px;
+  width: 90px;
+  height: 90px;
   background: url("https://i.imgur.com/OHMiwj0.png") no-repeat;
   background-size: 100%;
 }
@@ -1871,7 +1872,7 @@
   right: 430px;
   width: 30px;
   height: 40px;
-  background: url("https://i.imgur.com/JMoXBIs.png") no-repeat;
+  background: url("https://i.imgur.com/JD5G64K.png") no-repeat;
   background-size: 100%;
 }
 @media (max-width: 1350px) {
