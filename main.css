@@ -1806,9 +1806,9 @@
   z-index: 1;
   pointer-events: none;
 }
-:root .app_b1f720::before {
+:root .app_b1f720::after {
   left: 0;
-  top: 0;
+  top: -10;
   width: 250px;
   height: 250px;
   background: url("https://i.imgur.com/EM5n97Y.png") no-repeat;
@@ -1843,8 +1843,8 @@
   z-index: 0;
   bottom: 75px;
   right: 0;
-  width: 20px;
-  height: 50px;
+  width: 30px;
+  height: 75px;
   background: url("https://i.imgur.com/IJtedS4.png") no-repeat;
   background-size: 100%;
 }
@@ -1853,7 +1853,7 @@
   right: 80px;
   width: 75px;
   height: 75px;
-  background: url("https://i.imgur.com/WBUag7e.png") no-repeat;
+  background: url("https://i.imgur.com/wqDDy3y.png") no-repeat;
   background-size: 100%;
 }
 :root .bg__12180::after {
